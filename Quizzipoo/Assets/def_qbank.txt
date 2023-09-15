@@ -1,0 +1,13 @@
+%%
+This is a question.  True or False?
+%%
+True
+%%
+This is not a question.  True or False?
+%%
+False
+%%
+If you want to use your own questions, you can put in a .txt file containing questions of your own creation into the input field to the right of the screen.
+%%
+True
+%%
